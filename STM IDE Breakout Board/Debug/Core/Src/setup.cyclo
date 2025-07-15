@@ -1,0 +1,9 @@
+../Core/Src/setup.c:37:6:toggle_flag	3
+../Core/Src/setup.c:42:6:set_flag	1
+../Core/Src/setup.c:46:6:clear_flags	1
+../Core/Src/setup.c:58:14:scroll_plant	6
+../Core/Src/setup.c:82:10:select_plant	4
+../Core/Src/setup.c:100:10:calibrate_moisture	4
+../Core/Src/setup.c:123:17:scroll_depth	6
+../Core/Src/setup.c:154:10:select_pot_depth	4
+../Core/Src/setup.c:172:10:change_setup	14
