@@ -1,0 +1,5 @@
+../Core/Src/temp_rh_sensor.c:21:17:hourly_avg_temp	24	static
+../Core/Src/temp_rh_sensor.c:35:17:hourly_avg_rh	24	static
+../Core/Src/temp_rh_sensor.c:50:6:get_temp_and_rh_value	32	static
+../Core/Src/temp_rh_sensor.c:73:6:check_temp	8	static
+../Core/Src/temp_rh_sensor.c:90:6:check_rh	8	static
