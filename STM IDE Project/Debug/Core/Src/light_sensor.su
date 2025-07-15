@@ -1,0 +1,11 @@
+../Core/Src/light_sensor.c:27:17:convert_to_lux	64	static
+../Core/Src/light_sensor.c:46:17:light_i2c_read	24	static
+../Core/Src/light_sensor.c:63:17:light_level_to_lux_high	16	static
+../Core/Src/light_sensor.c:88:17:light_level_to_lux_low	16	static
+../Core/Src/light_sensor.c:112:6:mins_in_optimal_light	40	static
+../Core/Src/light_sensor.c:129:17:average_optimal_light_time	24	static
+../Core/Src/light_sensor.c:142:17:average_optimal_light_ints	24	static
+../Core/Src/light_sensor.c:155:6:get_light_value	40	static
+../Core/Src/light_sensor.c:172:6:calc_high_intensity	24	static
+../Core/Src/light_sensor.c:196:6:check_light_intensity	24	static
+../Core/Src/light_sensor.c:216:6:check_light_time	16	static

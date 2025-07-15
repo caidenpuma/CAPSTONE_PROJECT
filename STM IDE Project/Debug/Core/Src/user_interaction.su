@@ -1,0 +1,6 @@
+../Core/Src/user_interaction.c:49:13:display_alert	16	static
+../Core/Src/user_interaction.c:95:6:update_alert	16	static
+../Core/Src/user_interaction.c:103:10:count_alerts	16	static
+../Core/Src/user_interaction.c:120:10:show_alerts	16	static
+../Core/Src/user_interaction.c:157:6:display_toggle	8	static
+../Core/Src/user_interaction.c:166:6:check_battery_level	112	static
